@@ -1,3 +1,2 @@
-hello world
-this is second example
-modified from feature branch
+## welcome git
+- this is coming from dev2
